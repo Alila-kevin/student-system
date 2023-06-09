@@ -1,0 +1,15 @@
+D:\C#\contclass\contclass\bin\Debug\net7.0\contclass.exe
+D:\C#\contclass\contclass\bin\Debug\net7.0\contclass.deps.json
+D:\C#\contclass\contclass\bin\Debug\net7.0\contclass.runtimeconfig.json
+D:\C#\contclass\contclass\bin\Debug\net7.0\contclass.dll
+D:\C#\contclass\contclass\bin\Debug\net7.0\contclass.pdb
+D:\C#\contclass\contclass\obj\Debug\net7.0\contclass.csproj.AssemblyReference.cache
+D:\C#\contclass\contclass\obj\Debug\net7.0\contclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\contclass\contclass\obj\Debug\net7.0\contclass.AssemblyInfoInputs.cache
+D:\C#\contclass\contclass\obj\Debug\net7.0\contclass.AssemblyInfo.cs
+D:\C#\contclass\contclass\obj\Debug\net7.0\contclass.csproj.CoreCompileInputs.cache
+D:\C#\contclass\contclass\obj\Debug\net7.0\contclass.dll
+D:\C#\contclass\contclass\obj\Debug\net7.0\refint\contclass.dll
+D:\C#\contclass\contclass\obj\Debug\net7.0\contclass.pdb
+D:\C#\contclass\contclass\obj\Debug\net7.0\contclass.genruntimeconfig.cache
+D:\C#\contclass\contclass\obj\Debug\net7.0\ref\contclass.dll
